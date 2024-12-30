@@ -5,4 +5,4 @@ Demoed in [get_formant_path.ipynb](https://github.com/acgalvano/FormantPath-vowe
 
 Visualization using various by-token grouping stragies and kernel density plots demoed in [visualize_formants.ipynb](https://github.com/acgalvano/FormantPath-vowels/blob/main/visualize_formants.ipynb).
 
-Script for dealing with pairwise results for R-based linear mixed-effects model of one formant (e.g., F1) as the outcome with linguistic and social predictors: [manage_pairwise_results.ipynb](https://github.com/acgalvano/FormantPath-vowels/blob/main/manage_pairwise_results.ipynb)
+Script for dealing with pairwise results for R-based linear mixed-effects model with one formant (e.g., F1) as the outcome with linguistic and social predictors: [manage_pairwise_results.ipynb](https://github.com/acgalvano/FormantPath-vowels/blob/main/manage_pairwise_results.ipynb)
