@@ -1,0 +1,17 @@
+name: formants
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - git
+  - jupyterlab
+  - librosa
+  - pandas
+  - pip
+  - python
+  - scipy
+  - seaborn
+  - pip:
+    - git+https://github.com/YannickJadoul/Parselmouth.git@ce21f3c91bdee880b29bd5fdeafe3bfd433e6ec3
+    - git+https://github.com/rsprouse/phonlab
+    - git+https://github.com/rsprouse/audiolabel
