@@ -7,4 +7,4 @@ Visualization using various by-token grouping stragies and kernel density plots 
 
 Script for dealing with pairwise results for categorial predictors from an R-based linear mixed-effects model for one formant (e.g., F1), a continous outcome: [manage_pairwise_results.ipynb](https://github.com/acgalvano/FormantPath-vowels/blob/main/manage_pairwise_results.ipynb)
 
-Outlier detection (plotting, saving set of outliers for all speakers): [vowel_outliers_05-23-25.ipynb](https://github.com/acgalvano/FormantPath-vowels/blob/beadfbddd1035e52f73ee950162e23a0229778fa/vowel_outliers_05-23-25.ipynb). Contact repo owner for full formants data file.
+Outlier detection (plotting, saving set of outliers for all speakers): [vowel_outliers_05-23-25.ipynb](https://github.com/acgalvano/FormantPath-vowels/blob/0e4d8f8144f360e54783e1605d1dbc0e90583b2e/vowel_outliers_05-23-25.ipynb). Contact repo owner for full formants data file.
